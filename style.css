@@ -74,6 +74,6 @@ p{
 }
 
 .bg2{
-    background:url('https://i.ibb.co/Fb5jb3J/bg2.jpg');    
+    background:url('./bg2.jpg');    
     color:#333;
 }
